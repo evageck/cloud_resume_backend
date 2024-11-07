@@ -37,7 +37,7 @@ Holds unit and system tests to validate the backend functionality and ensure rel
 
 ---
 
-## 3. File .gitignore
+## 3. `.gitignore` File
 
 The `.gitignore` file in the backend project specifies which files and directories should be ignored by Git to keep the repository clean and secure. 
 - Ignores Python bytecode and temporary compiled files.
